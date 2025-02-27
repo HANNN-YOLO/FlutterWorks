@@ -4,4 +4,4 @@
    sc: https://github.com/HANNN-YOLO/cari-kost
 
 2. Calculator
-   scL: https://github.com/HANNN-YOLO/calculator
+   sc: https://github.com/HANNN-YOLO/calculator
